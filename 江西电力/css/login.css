@@ -1,0 +1,74 @@
+#bg_box{
+	position: relative;
+	padding-top:0.1px ;
+	
+}
+#bg_box #bg{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: -1;
+}
+#popup{
+	width: 753px;
+	height: 392px;
+	margin: 0 auto;
+	background:url(../images/images/images/popup_bg1_03.png) no-repeat left top;
+	position: relative;
+}
+#user{
+	width: 161px;
+	height: 22px;
+	border: 1px solid #b8c3cc;
+	position: absolute;
+	top: 162px;
+	right: 57px;
+}
+#psd{
+	width: 161px;
+	height: 22px;
+	border: 1px solid #b8c3cc;
+	position: absolute;
+	top: 204px;
+	right: 57px;
+}
+#yzminfo{
+	height: 22px;
+	width: 85px;
+	border: 1px solid #b8c3cc;
+	position: absolute;
+	bottom: 124px;
+	right: 133px;
+	
+}
+.yzm{
+	display: inline-block;
+	height: 22px;
+	width: 67px;
+	background: url(../images/images/yzm_bg_03.jpg) no-repeat left top;
+	position: absolute;
+	right: 57px;
+	bottom: 124px;
+	line-height: 22px;
+	text-align: center;
+	color: #000000;
+}
+#popup input[type="image"]{
+	position: absolute;
+	right: 139px;
+	bottom: 73px;
+}
+#logo{
+	width: 173px;
+	height: 52px;
+	background:url(../images/images/images/lofo02_03.png) no-repeat left top ;
+	margin: 40px auto;
+}
+#name{
+	margin: 0 auto;
+	width: 685px;
+	height: 43px;
+	background: url(../images/images/images/lo_n_03.png) no-repeat left top;
+}
